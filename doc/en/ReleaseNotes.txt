@@ -1,0 +1,94 @@
+﻿CannyLab
+--------
+
+Version history:
+
+v.1.33 (2017-11-09):
+-----------
+- The CANNY 3 TINY added
+- CANNY 7: The IR RC driver is updated. The Sony SIRC protocol added.
+- CANNY 7: The TX pull-up bug in IR RC driver is fixed.
+- CANNY 7: The auto baud rate detection mode of the LIN driver is improved.
+- CANNY 7: CAN 800k mode is added.
+- CANNY CAN/LIN monitor: CAN 800k mode is added.
+- Firmware updates
+
+v.1.32 (2016-08-17):
+-----------
+- CANNY 5.2 duo firmware updates
+- Know Issues:
+  Not all devices are supported then English UI option is selected.
+  Not all documentation is translated
+
+v.1.31 (2017-05-04):
+-----------
+- Fixed incorrect determination of connected devices count.
+- Firmware updates
+- Know Issues:
+  Not all devices are supported then English UI option is selected.
+  Not all documentation is translated
+  
+v.1.30 (2017-03-22):
+-----------
+- Fixed behavior of the Trigger-D in the simulator
+- Optimization of controller's RAM usage and calculation.
+- LIN 10.5k now supported in firmware and CANNY CAN/LIN monitor
+- Minor UI improvements 
+- Firmware updates
+- Know Issues:
+  Not all devices are supported then English UI option is selected.
+  Not all documentation is translated
+  
+v.1.29 (2017-02-22):
+-----------
+- Check for available software updates added.
+- Minor UI improvements 
+- Firmware updates
+- Know Issues:
+  Not all devices are supported then English UI option is selected.
+  Not all documentation is translated
+
+v.1.28 (2016-11-29):
+-----------
+- Fixed an issue in Canny SFX util v 1.27: Description was not shown in result exe file.
+- Know Issues:
+  Not all devices are supported then English UI option is selected.
+  Not all documentation is translated
+
+v.1.27 (2016-11-23):
+-----------
+- Russian and International CannyLab's versions are megred.
+- Full-text search on diagram.
+- Pause button now supported in CANNY CAN/LIN monitor
+- CAN 95.2k now supported in firmware and CANNY CAN/LIN monitor
+- Improved RAM and ROM usage calculation
+- Minor bugs fixes and UI improvement
+- Know Issues:
+  Not all devices are supported then English UI option is selected.
+  Not all documentation is translated
+
+v.1.19 (2016-04-14):
+-----------
+- Two new functional blocks added: "Buffer" and "Map"
+- CANNY 7 firmware update
+- CANNY CAN Monitor and firmware update: CAN 20k support added
+- minor bugs fixes
+
+v.1.16 (2016-02-20):
+-----------
+- automatically integrity check of saved file
+- CANNY Wiki link in Help menu
+- Input and Output Registers is independed diagram elements now:
+  * The "Copy"function block is changed to "Output register" element
+  * "Input register" element added
+- Constant icon changed
+- CANNY CAN Monitor is now can read LIN bus messages
+- SFX tool's look update
+- CANNY 7 firmware update
+- examples update
+- minor bugs fixes
+
+v.1.13 (2015-10-30):
+-----------
+
+First international release.
